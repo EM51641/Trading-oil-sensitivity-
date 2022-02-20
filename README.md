@@ -1,5 +1,5 @@
 # Trading-oil-sensitivity-
-Trading oil sensitivity using a mean reverting process. 
+On this project, we try trading oil sensitivity by treating a signal as a mean reverting process. 
 
 
 An algorithm that works on the QuantConnect platform is attached to the repository. This algorithm uses a statistical arbitrage strategy mentioned in the paper:
